@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+#idea
+.idea
+
+#env
+/.env
+
+#prisma
+/prisma/dev.db
+/prisma/dev.db-journal
